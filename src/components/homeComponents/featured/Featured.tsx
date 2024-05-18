@@ -36,9 +36,9 @@ export default function Featured() {
                 />
               </div>
             </div>
-            <div className="flex items-center justify-center gap-2 text-[#868E9B] pt-14 pb-6 font-semibold">
+            <div className="flex items-center justify-center gap-2 text-[#57729B] pt-14 pb-6 font-semibold">
               <FaMedal />
-              Silver{" "}
+              Platinum{" "}
             </div>
             <div className="pb-4">
               <button
@@ -67,9 +67,9 @@ export default function Featured() {
                 />
               </div>
             </div>
-            <div className="flex items-center justify-center gap-2 text-[#868E9B] pt-14 pb-6 font-semibold">
+            <div className="flex items-center justify-center gap-2 text-[#E8A82C] pt-14 pb-6 font-semibold">
               <FaMedal />
-              Silver{" "}
+              Gold{" "}
             </div>
             <div className="pb-4">
               <button
@@ -100,9 +100,9 @@ export default function Featured() {
                 />
               </div>
             </div>
-            <div className="flex items-center justify-center gap-2 text-[#868E9B] pt-14 pb-6 font-semibold">
+            <div className="flex items-center justify-center gap-2 text-[#57729B] pt-14 pb-6 font-semibold">
               <FaMedal />
-              Silver{" "}
+              Platinum{" "}
             </div>
             <div className="pb-4">
               <button
@@ -131,9 +131,9 @@ export default function Featured() {
                 />
               </div>
             </div>
-            <div className="flex items-center justify-center gap-2 text-[#868E9B] pt-14 pb-6 font-semibold">
+            <div className="flex items-center justify-center gap-2 text-[#57729B] pt-14 pb-6 font-semibold">
               <FaMedal />
-              Silver{" "}
+              Platinum{" "}
             </div>
             <div className="pb-4">
               <button
