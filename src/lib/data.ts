@@ -116,4 +116,47 @@ export const designs = [
     }
   ];
   
-  
+  export const testimonials = [
+    {
+      id: 1,
+      name: "John Doe",
+      title: "CEO, Example Corp",
+      testimonial: "This service has exceeded our expectations in every way. Highly recommended!",
+      date: "2023-04-12"
+    },
+    {
+      id: 2,
+      name: "Jane Smith",
+      title: "Marketing Director, ABC Inc.",
+      testimonial: "The team was professional and delivered excellent results. We saw a significant improvement in our metrics.",
+      date: "2023-05-01"
+    },
+    {
+      id: 3,
+      name: "Emily Johnson",
+      title: "Product Manager, XYZ Ltd.",
+      testimonial: "Great experience from start to finish. The final product was exactly what we needed.",
+      date: "2023-03-22"
+    },
+    {
+      id: 4,
+      name: "Michael Brown",
+      title: "CTO, Tech Solutions",
+      testimonial: "Their expertise and attention to detail were top-notch. We will definitely work with them again.",
+      date: "2023-02-15"
+    },
+    {
+      id: 5,
+      name: "Sarah Davis",
+      title: "Operations Manager, Bright Future",
+      testimonial: "Outstanding service and exceptional results. Our team is extremely satisfied with the outcome.",
+      date: "2023-01-30"
+    },
+    {
+      id: 6,
+      name: "David Wilson",
+      title: "Founder, Innovatech",
+      testimonial: "Innovative solutions and excellent customer service. They went above and beyond our expectations.",
+      date: "2023-04-05"
+    }
+  ];
